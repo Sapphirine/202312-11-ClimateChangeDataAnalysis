@@ -1,0 +1,1 @@
+{"date": 1702702800.0, "temperature": 13.27, "feels_like": 12.82, "description": "broken clouds", "humidity": 83, "wind_speed": 4.08, "wind_gust": 4.91, "wind_deg": 155, "dew_point": 10.45, "pressure": 1041, "clouds": 76}
