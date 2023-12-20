@@ -5,3 +5,7 @@ Ritwik Goel - rg3546
 Milin Saini - mks2249
 
 ![Image](images/mainpage.png "Title")
+
+
+
+![Image](images/analysis.png "Title")
